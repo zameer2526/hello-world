@@ -1,6 +1,6 @@
 <iform action="action_page.php">
   <div class="container">
-    <h1>AAAAABBBccccDDpppppHHHHp
+    <h1>AAAAABBBccccDDpppppHHHHpPPPPPPPPPP
     <p>Please fill in this form to create an account.</p>
     <hr>
      
